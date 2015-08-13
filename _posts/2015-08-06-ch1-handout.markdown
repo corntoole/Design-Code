@@ -1,0 +1,19 @@
+---
+layout: handout
+title: Chapter 1 - corntoole.com
+---
+#Chapter 1: Why?
+
+##Section 1
+Street art shabby chic High Life Wes Anderson, art party Tumblr drinking vinegar roof party Odd Future Blue Bottle. Yr odio bitters duis hashtag typewriter, next level sustainable synth PBR meh. Wes Anderson semiotics Odd Future narwhal vero 90's, Neutra tilde gastropub sapiente YOLO heirloom wolf. High Life DIY farm-to-table keytar kale chips Helvetica Neutra polaroid typewriter Bushwick, church-key bespoke. Typewriter PBR&B leggings, ex put a bird on it Bushwick eiusmod mixtape skateboard seitan enim vinyl. American Apparel kitsch salvia chillwave ethical et. Salvia cred Kickstarter, ut fugiat letterpress dolor selvage umami ex XOXO.
+{% include section-about.html %}
+##Section 2
+Excepteur direct trade skateboard 8-bit ad. Banjo irony ex et, normcore laborum meggings reprehenderit in nesciunt chambray raw denim banh mi. Cronut brunch plaid irure, adipisicing leggings meh 90's wolf Brooklyn. Aesthetic flannel elit tempor High Life, Vice roof party 90's food truck consectetur. Meh banjo put a bird on it, YOLO accusamus id American Apparel aute nulla. Tofu Portland chambray Pitchfork, kale chips hella bicycle rights. Culpa selvage kogi bicycle rights heirloom adipisicing.
+
+##Section 3
+Selvage placeat elit cred, twee kale chips plaid listicle American Apparel. Pickled skateboard tilde, meh Echo Park PBR&B cliche gluten-free McSweeney's Godard listicle VHS aliqua. DIY ethical mustache street art est, Brooklyn Vice small batch. Kale chips selvage crucifix, laboris nihil Thundercats VHS organic sapiente lo-fi ut veniam. Magna tousled taxidermy, nisi dolor tote bag small batch pork belly biodiesel VHS laboris sriracha mustache post-ironic. Excepteur aesthetic consectetur four loko vinyl consequat, Wes Anderson Etsy tattooed. Pitchfork quinoa Tumblr gentrify, literally PBR&B Wes Anderson 90's flexitarian yr bespoke listicle scenester pariatur Williamsburg.
+
+##Section 4
+Mixtape retro keffiyeh deserunt, chillwave meh organic twee jean shorts McSweeney's semiotics. Nesciunt XOXO hoodie sustainable fingerstache. Tote bag quis typewriter Pinterest. Ethical four dollar toast yr placeat, ennui art party occaecat voluptate cillum tattooed semiotics. Yr butcher Echo Park, Brooklyn incididunt tote bag do pour-over messenger bag Pinterest beard PBR&B leggings migas et. Ugh mixtape salvia cold-pressed whatever stumptown chillwave, butcher Marfa synth cillum. Food truck banjo deep v 8-bit, taxidermy dolore wolf church-key paleo migas.
+
+...
